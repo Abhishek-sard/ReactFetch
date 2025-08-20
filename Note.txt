@@ -1,0 +1,6 @@
+
+1. create a new react app using the following command
+npx create-react-app react-fetch-get-post-put-delete 
+
+2. install BlueprintJS for styling the app.
+npm i @blueprintjs/core
